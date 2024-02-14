@@ -1,5 +1,4 @@
 import { ShoppingBag } from 'iconsax-react'
-import React from 'react'
 
 const ShopItem = () => {
   return (

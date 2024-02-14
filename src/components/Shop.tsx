@@ -1,7 +1,3 @@
-import { ShoppingBag } from "iconsax-react";
-import React from "react";
-import Swiper from "swiper";
-import { SwiperSlide } from "swiper/react";
 import Pagination from "./Pagination";
 import ShopItem from "./ShopItem";
 

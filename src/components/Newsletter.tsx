@@ -1,5 +1,4 @@
 import { Send } from 'iconsax-react'
-import React from 'react'
 
 const Newsletter = () => {
   return (

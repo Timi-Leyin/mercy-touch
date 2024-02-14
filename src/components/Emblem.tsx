@@ -1,4 +1,4 @@
-import { CSSProperties, ReactNode, StyleHTMLAttributes, useEffect, useRef } from "react";
+import { CSSProperties, ReactNode, useEffect, useRef } from "react";
 
 function Emblem({ text, children, style }: { text: string; children?: ReactNode, style?:CSSProperties }) {
   useEffect(() => {
